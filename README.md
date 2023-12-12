@@ -7,4 +7,4 @@ The HaHa board and 19 experiments (including Experiment 0) designed to run on it
 
 The experiments can be run on the HaHa board by connecting it to a computer and without need of any additional benchtop electrical measurement unit. Hence, this course is suitable for online learning since it does not require access to a physical lab. Note that few experiments, however, (e.g., Experiment 9) require access to a USB Oscilloscope, such as Analog Discovery 2. Instructors are welcome to choose any subset of these experiments into their offered course depending on course duration and other factors.
 
-- extensions were made to both experiment 2 and 4
+Extensions were made to both experiments 2 and 4. The extension for experiment 2 included a modified AES code for any size of message length. Experiment 4 includes a modified des.v file that will trigger the trojan attack when the the HaHa board is tilted more than 45 degrees
