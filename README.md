@@ -6,3 +6,5 @@ The custom-designed hardware platform is called Hardware Hacking board (HaHa). I
 The HaHa board and 19 experiments (including Experiment 0) designed to run on it have been developed by Prof. Swarup Bhunia with help of his students and collaborators, at the Electrical and Computer Engineering Department of University of Florida, where the Hands-on Hardware Security course is being offered each fall for past five years.
 
 The experiments can be run on the HaHa board by connecting it to a computer and without need of any additional benchtop electrical measurement unit. Hence, this course is suitable for online learning since it does not require access to a physical lab. Note that few experiments, however, (e.g., Experiment 9) require access to a USB Oscilloscope, such as Analog Discovery 2. Instructors are welcome to choose any subset of these experiments into their offered course depending on course duration and other factors.
+
+- extensions were made to both experiment 2 and 4
